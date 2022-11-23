@@ -11,7 +11,8 @@
   "files": [
     "dist",
     "LICENSE",
-    "README.md"
+    "README.md",
+    "dist"
   ],
   "dependencies": {
     "quill": "^1.3.7"
